@@ -1,1 +1,44 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+body {
+    font-size: 13px;
+    margin: 0;
+}
+/* .mat-input-element {
+    caret-color: #ffffff !important;
+}
+.mat-form-field .mat-form-field-appearance-legacy .mat-form-field-label {
+    color: rgba(255, 255, 255, 1) !important;
+}
+.mat-input-element {
+    color: white !important;
+}
+.mat-form-field .mat-form-field-appearance-legacy .mat-form-field-label {
+    color: white !important;
+}
+.mat-form-field-appearance-legacy .mat-form-field-label {
+    color: #272626;
+    font-weight: bold;
+}
+.mat-form-field-appearance-legacy .mat-form-field-underline {
+    background-color: white !important;
+}
+.mat-form-field-appearance-legacy .mat-form-field-underline:active {
+    background-color: white !important;
+}
+
+.mat-fab.mat-primary, .mat-flat-button.mat-primary, .mat-mini-fab.mat-primary, .mat-raised-button.mat-primary {
+    background-color: #909090;
+}
+.mat-checkbox-checked.mat-primary .mat-checkbox-background {
+    background-color: #5f5f5f;
+}
+.mat-checkbox-label {
+    color: white;
+} */
+
+.mat-form-field {
+    height: 39px;
+}
